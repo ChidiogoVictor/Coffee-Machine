@@ -1,4 +1,3 @@
-**Coffee Machine**
 **These are the prompts** 
 what would you like? (espresso/latte/cappuccino):
 please insert coins.
